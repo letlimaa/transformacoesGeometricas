@@ -2,6 +2,11 @@
 
 Este repositório contém o código do trabalho de Computação Gráfica desenvolvido para o 1º Bimestre da disciplina de Computação Gráfica. O trabalho tem como objetivo aplicar transformações geométricas no plano e no espaço, utilizando o OpenGL.
 
+## Equipe
+Letícia Malato
+Letícia Lima
+Ryan Oliveira
+
 ## Objetivo
 
 - **Parte 1**: Aplicar as transformações geométricas de translação, espelhamento e escala em um cubo utilizando OpenGL.
