@@ -22,7 +22,7 @@ Este repositório contém o código do trabalho de Computação Gráfica desenvo
 
 1. Clone este repositório em seu computador:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/letlimaa/transformacoesGeometricas.git
    ```
 
 2. Instale as dependências necessárias:
